@@ -12,7 +12,7 @@
     "scope":"/",
     "icons": [
        {
-         "src": "icon.jpg",
+         "src": "img/icon.jpg",
          "sizes": "192x192",
          "type": "image/png"
        }
